@@ -92,8 +92,8 @@ Java • OOP • SOLID • Fluent Interface
 ## 📊 GitHub статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanyainthenorth&show_icons=true&theme=radical&hide_border=true" alt="Статистика Александры" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanyainthenorth&layout=compact&theme=radical&hide_border=true" alt="Топ языков" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanyainthenorth&show_icons=true&hide_title=true&hide=stars&theme=default" alt="Статистика" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanyainthenorth&layout=compact&theme=default" alt="Языки" height="165"/>
 </p>
 
 ## 📫 Контакты
